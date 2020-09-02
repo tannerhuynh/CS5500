@@ -1,0 +1,3 @@
+The code basically adapts the stack abilities of empty, push, peek, and pop using an array list adapter. The queue is used as the top of the stack. Different exceptions are caught like not being able to add a null item, or when trying to pop or peek an empty stack.
+
+The covers all these methods. Illegal exceptions are tested for when someone tries to pop or peek an empty stack or add a null item. I've also used a for loop to test a large stack.

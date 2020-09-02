@@ -1,0 +1,80 @@
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: LAS:  33
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: LAX:  27
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: ATL:  36
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: SFO:  22
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: IAH:  31
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: BOS:  28
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: LOS:  23
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: Train tickets: 30
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: Plane tickets: 29
+Oct 11, 2019 9:11:52 AM logger.Counter report
+INFO: Bus tickets: 41
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: LAX:  31
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: IAH:  29
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: BOS:  34
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: SFO:  27
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: LAS:  33
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: ATL:  26
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: LOS:  20
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: Train tickets: 35
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: Plane tickets: 33
+Oct 11, 2019 9:11:54 AM logger.Counter report
+INFO: Bus tickets: 32
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: SFO:  29
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: LAS:  24
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: IAH:  31
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: ATL:  37
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: BOS:  33
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: LAX:  22
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: LOS:  24
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: Train tickets: 32
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: Plane tickets: 33
+Oct 11, 2019 9:11:58 AM logger.Counter report
+INFO: Bus tickets: 35
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: BOS:  29
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: LAS:  32
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: LOS:  24
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: LAX:  37
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: ATL:  21
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: IAH:  38
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: SFO:  19
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: Train tickets: 33
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: Plane tickets: 34
+Oct 11, 2019 5:50:52 PM logger.Counter report
+INFO: Bus tickets: 33

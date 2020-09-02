@@ -1,0 +1,3 @@
+The methods allow for someone to manipulate bits directly by getting, setting, and clearing bits in a compact int array. The set method automatically resizes the array if the bit being set is bigger. The size method also returns any set bits in the entire array. The copy method uses the defined generic iterator to iterate through the entire int array to copy it over to a new array.
+
+All the methods have been thoroughly tested using various bit vectors. Set and get methods  assert whether the bit exists through true and false assertion. There is a test for adding a negative bit, which cannot be done. There is also a test to make sure that adding the same duplicate element cannot be done. There is a test for clearing negative bits, and clearing unset bits.

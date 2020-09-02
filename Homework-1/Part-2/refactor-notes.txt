@@ -1,0 +1,15 @@
+Person Class:
+Refactored equals to remove redundant true/false statements.
+Now it shall only return true or false in less computations.
+
+MatchMaker Class:
+Refactored makeMatches by moving out the checkSize function to check and output a message if there are odd numbers of people.
+
+Refactored setupGroups by adding a helper function for sorting the person.
+
+Refactored makeMatches to be one main function with several helper functions.
+
+Refactor for functions into foreach function makes the code more readable.
+Helper functions help developers debug easily.
+
+Added documentation for classes and comments where necessary to help with readability and understand the classes.

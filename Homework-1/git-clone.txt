@@ -1,0 +1,9 @@
+BOML202167:CS5500 thuynh$ git clone https://github.ccs.neu.edu/cs5500-fse/tannerhuynh-F19.git
+Cloning into 'tannerhuynh-F19'...
+Username for 'https://github.ccs.neu.edu': tannerhuynh
+Password for 'https://tannerhuynh@github.ccs.neu.edu': 
+remote: Enumerating objects: 75, done.
+remote: Counting objects: 100% (75/75), done.
+remote: Compressing objects: 100% (51/51), done.
+remote: Total 75 (delta 10), reused 59 (delta 5), pack-reused 0
+Unpacking objects: 100% (75/75), done.

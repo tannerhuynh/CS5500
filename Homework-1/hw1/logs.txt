@@ -1,0 +1,4 @@
+Sep 20, 2019 9:42:37 AM matching.TestPerson testCompareTo
+INFO: Considering Kanye and Kim
+Sep 20, 2019 9:42:37 AM matching.TestPerson testCompareTo
+INFO: Done - passed.

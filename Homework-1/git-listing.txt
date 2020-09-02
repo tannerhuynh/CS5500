@@ -1,0 +1,59 @@
+BOML202167:CS5500 thuynh$ git ls-files
+Grading/.ignore
+Homework-1/.ignore
+Homework-1/hw1/.classpath
+Homework-1/hw1/.project
+Homework-1/hw1/pom.xml
+Homework-1/hw1/src/main/java/cs5500/hw1/App.java
+Homework-1/hw1/src/main/java/cs5500/hw1/Attributes.java
+Homework-1/hw1/src/main/java/cs5500/hw1/MatchMaker.java
+Homework-1/hw1/src/main/java/cs5500/hw1/Person.java
+Homework-1/hw1/src/test/java/cs5500/hw1/AllTests.java
+Homework-1/hw1/src/test/java/cs5500/hw1/AppTest.java
+Homework-1/hw1/src/test/java/cs5500/hw1/TestMatch.java
+Homework-1/hw1/src/test/java/cs5500/hw1/TestPerson.java
+Homework-1/hw1/target/classes/cs5500/hw1/App.class
+Homework-1/hw1/target/classes/cs5500/hw1/Attributes.class
+Homework-1/hw1/target/classes/cs5500/hw1/MatchMaker.class
+Homework-1/hw1/target/classes/cs5500/hw1/Person.class
+Homework-1/hw1/target/hw1-0.0.1-SNAPSHOT.jar
+Homework-1/hw1/target/maven-archiver/pom.properties
+Homework-1/hw1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Homework-1/hw1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Homework-1/hw1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+Homework-1/hw1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+Homework-1/hw1/target/surefire-reports/TEST-AppTest.xml
+Homework-1/hw1/target/surefire-reports/TEST-TestMatch.xml
+Homework-1/hw1/target/surefire-reports/TEST-TestPerson.xml
+Homework-1/hw1/target/surefire-reports/AppTest.txt
+Homework-1/hw1/target/surefire-reports/TestMatch.txt
+Homework-1/hw1/target/surefire-reports/TestPerson.txt
+Homework-1/hw1/target/test-classes/cs5500/hw1/AllTests.class
+Homework-1/hw1/target/test-classes/cs5500/hw1/AppTest.class
+Homework-1/hw1/target/test-classes/cs5500/hw1/TestMatch.class
+Homework-1/hw1/target/test-classes/cs5500/hw1/TestPerson.class
+Homework-2/.ignore
+Homework-3/.ignore
+Homework-4/.ignore
+Homework-5/.ignore
+README.md
+
+
+
+BOML202167:.git thuynh$ ls -als
+total 56
+ 0 drwxr-xr-x  14 thuynh  staff   448 Sep 11 12:26 .
+ 0 drwxr-xr-x  11 thuynh  staff   352 Sep 11 12:41 ..
+ 8 -rw-r--r--   1 thuynh  staff   115 Sep 11 12:38 FETCH_HEAD
+ 8 -rw-r--r--   1 thuynh  staff    23 Sep 10 18:26 HEAD
+ 0 drwxr-xr-x   2 thuynh  staff    64 Sep 10 18:26 branches
+ 8 -rw-r--r--   1 thuynh  staff   427 Sep 11 12:26 config
+ 8 -rw-r--r--   1 thuynh  staff    73 Sep 10 18:26 description
+ 0 drwxr-xr-x  13 thuynh  staff   416 Sep 10 18:26 hooks
+16 -rw-r--r--   1 thuynh  staff  5579 Sep 10 18:26 index
+ 0 drwxr-xr-x   3 thuynh  staff    96 Sep 10 18:26 info
+ 0 drwxr-xr-x   4 thuynh  staff   128 Sep 10 18:26 logs
+ 0 drwxr-xr-x  70 thuynh  staff  2240 Sep 10 18:26 objects
+ 8 -rw-r--r--   1 thuynh  staff   114 Sep 10 18:26 packed-refs
+ 0 drwxr-xr-x   5 thuynh  staff   160 Sep 10 18:26 refs
+

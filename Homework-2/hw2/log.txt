@@ -1,0 +1,800 @@
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Los Angeles, California and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Las Vegas, Nevada and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Boston, Massachusetts and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:52 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from San Francisco, California and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from San Francisco, California and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for John Smith departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Babe Ruth departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Boston, Massachusetts and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Las Vegas, Nevada and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Mary Grace departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Babe Ruth departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from San Francisco, California and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Boston, Massachusetts and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Mary Grace departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Mary Grace departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:54 AM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from San Francisco, California and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for John Smith departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Los Angeles, California and arriving at San Francisco, California
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 9:11:57 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Lowell, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Atlanta, Georgia and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Los Angeles, California and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Bob Barker departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for John Smith departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Los Angeles, California and arriving at Atlanta, Georgia
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 9:11:58 AM logger.Main main
+INFO: TrainTicket created for John Smith departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Mary Grace departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Las Vegas, Nevada and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for John Smith departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Lowell, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Las Vegas, Nevada and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for John Smith departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for John Smith departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Lowell, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from San Francisco, California and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from San Francisco, California and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Jet Lee departing from San Francisco, California and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Carry Underwood departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from San Francisco, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Roseanne Calligra departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Roseanne Calligra departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Dave Campbell departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Atlanta, Georgia and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Joanne Putnam departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Atlanta, Georgia and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Mary Grace departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Tanner Huynh departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for RuPaul Harrington departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for RuPaul Harrington departing from Lowell, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from Boston, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Atlanta, Georgia and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Houston, Texas and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Babe Ruth departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Jet Lee departing from Los Angeles, California and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Tanner Huynh departing from Houston, Texas and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Boston, Massachusetts and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from San Francisco, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Josh Toy departing from Los Angeles, California and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Bob Barker departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Josh Toy departing from Las Vegas, Nevada and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Dave Campbell departing from Boston, Massachusetts and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Joanne Putnam departing from Lowell, Massachusetts and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Carry Underwood departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: BusTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Las Vegas, Nevada and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Los Angeles, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Jet Lee departing from Lowell, Massachusetts and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Houston, Texas and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Dave Campbell departing from Los Angeles, California and arriving at Lowell, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Jet Lee departing from Boston, Massachusetts and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Joanne Putnam departing from Houston, Texas and arriving at Boston, Massachusetts
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Babe Ruth departing from Houston, Texas and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Carry Underwood departing from Las Vegas, Nevada and arriving at Los Angeles, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Tanner Huynh departing from Boston, Massachusetts and arriving at San Francisco, California
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for John Smith departing from Las Vegas, Nevada and arriving at Atlanta, Georgia
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for Roseanne Calligra departing from San Francisco, California and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: PlaneTicket created for RuPaul Harrington departing from Atlanta, Georgia and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Josh Toy departing from Atlanta, Georgia and arriving at Houston, Texas
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Mary Grace departing from Lowell, Massachusetts and arriving at Las Vegas, Nevada
+Oct 11, 2019 5:50:52 PM logger.Main main
+INFO: TrainTicket created for Babe Ruth departing from San Francisco, California and arriving at Boston, Massachusetts

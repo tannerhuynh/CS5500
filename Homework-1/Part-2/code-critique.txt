@@ -1,0 +1,33 @@
+Unless really necessary, all methods should be private.
+
+There are some files that are committed that really should be ignored by git.
+
+
+Organization
+	•	Source and Test directories are not marked.
+	•	Files are not built in a way that others can open up and run. There was a lot of setup for this code to run on Intellij (ie had to setup sdk, junit4, correct folders).
+
+
+Readability
+	•	Improper indentation in attributes enum and unused enums should be removed.
+	•	No comments/documentation makes scanning and understanding the code very difficult.
+	•	various refactoring could be done to make code more readable.
+
+
+Clarity & Expressiveness
+	•	Attributes may not be the appropriate title for the grouped enums.
+	•	Consider regrouping them and renaming the enum to attribute and role.
+
+Extensibility
+	•	Not extendable because there is no interface.
+
+Documentation
+	•	enum is not appropriately commented.
+	•	Void of any documentation and comments to understand the code. Code must have documentation and appropriately, sparsely added comments to explain complex code segments.
+
+Code / Syntax
+	•	App.java is not relevant to the file and should be deleted.
+	•	Matchmaker initial output could have been simplified to if proposers != proposees rather than having an if else statement.
+	•	Unused imported util functions were not removed.
+	•	Improper initialization of variables at end of file when they should be right after the opening bracket of the class.
+	•	Not enough tests.
